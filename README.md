@@ -1,5 +1,5 @@
-# Oi, eu sou Lucas Queiroz (FXharry) 😁🤙.
-🎓 Análise e Desensolvimento de Sistemas - ESTÁCIO
+# Hi! I'm Lucas Queiroz (FXharry) 😁🤙.
+🎓 Analysis and systems development - ESTÁCIO
 
 ## Front-End Developer Jr.
 
@@ -11,7 +11,7 @@ I've been learning the basics of Front-End for a year, and as I'm a graphic desi
 - 🥇  I'm a true Warrior in battle, my ambitions will come true.
 - 🎨  All for the victory of that name @FXharry19
 
-### 👇 Entre em Contato!
+### 👇 Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-c-queiroz-39a272205/)](https://www.linkedin.com/in/lucas-c-queiroz-39a272205/)
 
 
