@@ -18,7 +18,8 @@ I've been learning the basics of Front-End for a year, and as I'm a graphic desi
 
 ### Skills 
 
-[!JavaScript Badge](https://imgur.com/a/9N72h9Z=https://developer.mozilla.org/en-US/docs/Web/JavaScript)]
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 
 
 
