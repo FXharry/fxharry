@@ -12,7 +12,7 @@ I've been learning the basics of Front-End for a year, and as I'm a graphic desi
 - 🎨  All for the victory of that name @FXharry19
 
 ### 👇 Contact
-[![Linkedin Badge](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 /)](https://www.linkedin.com/in/lucas-c-queiroz-39a272205/)
 
 
