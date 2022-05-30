@@ -12,13 +12,23 @@ I've been learning the basics of Front-End for a year, and as I'm a graphic desi
 - 🎨  All for the victory of that name @FXharry19
 
 ### 👇 Contact
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-c-queiroz-39a272205/)](https://www.linkedin.com/in/lucas-c-queiroz-39a272205/)
+[![Linkedin Badge](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+/)](https://www.linkedin.com/in/lucas-c-queiroz-39a272205/)
 
 
 
 ### Skills 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+
+### I'm Learning
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
+
+
+
 
 
 
