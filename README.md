@@ -18,7 +18,7 @@ I've been learning the basics of Front-End for a year, and as I'm a graphic desi
 
 ### Skills 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 
 
 
