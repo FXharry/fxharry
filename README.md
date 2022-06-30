@@ -1,5 +1,5 @@
 # Hi! I'm Lucas Queiroz (FXharry) 😁🤙.
-🎓 Analysis and systems development - ESTÁCIO
+🎓 Analysis and systems development - ESTÁCIO 3/6
 
 ## Front-End Developer Jr.
 
